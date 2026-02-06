@@ -2,7 +2,7 @@
 .vscode/
 referenceClient/
 docs/
-
+YiboServer/
 # Python / Qt Standard Ignore Rules
 __pycache__/
 *.py[cod]
